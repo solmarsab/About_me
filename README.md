@@ -1,4 +1,3 @@
-# About_me
 # 👋 Bonjour, je suis [Ton Prénom]
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
