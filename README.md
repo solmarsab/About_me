@@ -1,3 +1,4 @@
+
 # 👋 Bonjour, je suis Soline
 Bioinformaticienne avec 6 ans d'experience en traitement de données NGS à haut débit et maintenance pipeline.
 
@@ -37,6 +38,7 @@ Pendant un an, parmi les vaches, derrière le comptoir ou sur la route, j’ai v
 > Projet ouvert et régulièrement mis à jour sur GitHub.
 
 *Capture d’écran ou GIF à ajouter pour rendre le projet visuel.*
+
 
 ---
 
