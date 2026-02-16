@@ -1,5 +1,5 @@
 
-# Soline, Bioinformaticienne
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -49,28 +49,7 @@ Pendant un an, parmi les vaches, derrière le comptoir ou sur la route, j’ai v
 ⭐ N’hésite pas à explorer mon projet et à me contacter pour toute **collaboration ou opportunité professionnelle** !
 ---
 
-## 🛠️ Compétences techniques
-| Domaine | Compétences |
-|---------|-------------|
-| **Langages** | Python, R, Bash |
-| **Analyse & Data Science** | pandas, NumPy, tidyverse, Bioconductor |
-| **Bioinformatique** | RNA-seq, DNA-seq, pipelines NGS |
-| **Workflow & Reproductibilité** | Snakemake, Nextflow, HPC (SLURM), Cloud computing |
-| **Outils** | Git, Linux, VS Code |
 
----
-
-## 📊 Projet personnel
-### [Nom du projet]
-- **Objectif** : développer mes compétences en [analyse RNA-seq / visualisation / pipelines reproductibles].  
-- **Statut** : en cours  
-- **Technologies** : Python, R, Snakemake, HPC/Cloud  
-> Projet ouvert et régulièrement mis à jour sur GitHub.
-
-*Capture d’écran ou GIF à ajouter pour rendre le projet visuel.*
-
-
----
 
 ## 📫 Contact
 - **LinkedIn** : [ton profil LinkedIn]  
