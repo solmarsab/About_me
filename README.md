@@ -1,4 +1,8 @@
 
+
+
+## 🌱 À propos de moi
+
 # 👋 Bonjour, je suis Soline
 Bioinformaticienne avec 6 ans d'experience en traitement de données NGS à haut débit et maintenance pipeline.
 
@@ -16,7 +20,38 @@ Esprit curieux et engagée, j’ai trouvé dans la bioinformatique un moyen de m
 
 Après 6 ans d’expérience en traitement de données NGS et en maintenance de pipelines robustes sur HPC et cloud, j’ai troqué mon bureau pour les montagnes de Nouvelle-Zélande.
 
-Pendant un an, parmi les vaches, derrière le comptoir ou sur la route, j’ai vécu de nouvelles aventures. Aujourd’hui, je suis de retour et en recherche active d’un poste en bioinformatique. Parallèlement, je continue à développer mes compétences via des projets personnels présentés ici et à donner un peu de mon temps à des associations.
+Pendant un an, parmi les vaches, derrière le comptoir ou sur la route, j’ai vécu de nouvelles aventures. Aujourd’hui, je suis de retour et en recherche active d’un poste en bioinformatique. Parallèlement, je continue à développer mes compétences via des projets personnels présentés ici et à donner de mon temps à des associations.
+
+---
+
+## 🛠️ Compétences techniques
+| Domaine | Compétences |
+|---------|-------------|
+| **Langages** | Python, R, Bash |
+| **Analyse & Data Science** | pandas, NumPy, tidyverse, Bioconductor |
+| **Bioinformatique** | RNA-seq, DNA-seq, pipelines NGS |
+| **Workflow & Reproductibilité** | Snakemake, Nextflow, HPC (SLURM), Cloud computing |
+| **Outils** | Git, Linux, VS Code |
+
+---
+
+## 📊 Projet personnel
+### [Nom du projet]
+- **Objectif** : développer mes compétences en [analyse RNA-seq / visualisation / pipelines reproductibles].  
+- **Statut** : en cours  
+- **Technologies** : Python, R, Snakemake, HPC/Cloud  
+> Projet ouvert et régulièrement mis à jour sur GitHub.
+
+*Capture d’écran ou GIF à ajouter pour rendre le projet visuel.*
+
+---
+
+## 📫 Contact
+- **LinkedIn** : [ton profil LinkedIn]  
+- **Email** : [ton.email@example.com]  
+- **GitHub** : https://github.com/[tonpseudo]  
+
+⭐ N’hésite pas à explorer mon projet et à me contacter pour toute **collaboration ou opportunité professionnelle** !
 ---
 
 ## 🛠️ Compétences techniques
