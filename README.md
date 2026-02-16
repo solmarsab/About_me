@@ -11,11 +11,11 @@ Bioinformaticienne avec 6 ans d'experience en traitement de données NGS à haut
 
 ## 🌱 À propos de moi
 
-Mettre mes compétences au service des autres m’a toujours motivée. Curieuse de nature, je me suis rapidement passionnée pour la biologie, un domaine vaste qui regroupe une multitude de sujets fascinants. La bioinformatique est parfaite pour moi, car elle allie ma passion pour la biologie, mon goût pour l’informatique et la résolution de problèmes, tout en me permettant d’aider les chercheurs en leur apportant des solutions concrètes et de contribuer à la recherche.
+Esprit curieux et engagée, j’ai trouvé dans la bioinformatique un moyen de mettre mes compétences au service des chercheurs, d’assouvir ma curiosité et de résoudre des problèmes complexes.
 
-Après un an d’aventures en Nouvelle-Zélande, je suis de retour et en recherche active d’un poste en bioinformatique, tout en continuant à développer mes compétences via projets personnels et à m’impliquer dans des associations (Croix-Rouge, Les Petits Frères des Pauvres, Restos du Cœur).
+Après 6 ans d’expérience en traitement de données NGS et en maintenance de pipelines robustes sur HPC et cloud, j’ai troqué mon bureau pour les montagnes de Nouvelle-Zélande.
 
-
+Pendant un an, parmi les vaches, derrière le comptoir ou sur la route, j’ai vécu de nouvelles aventures. Aujourd’hui, je suis de retour et en recherche active d’un poste en bioinformatique. Parallèlement, je continue à développer mes compétences via des projets personnels présentés ici et à donner de mon temps à des associations.
 ---
 
 ## 🛠️ Compétences techniques
