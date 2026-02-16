@@ -1,10 +1,5 @@
 
-
-
-## 🌱 À propos de moi
-
-# 👋 Bonjour, je suis Soline
-Bioinformaticienne avec 6 ans d'experience en traitement de données NGS à haut débit et maintenance pipeline.
+# Soline, Bioinformaticienne
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
