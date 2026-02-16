@@ -1,4 +1,5 @@
-# 👋 Bonjour, je suis [Ton Prénom]
+# 👋 Bonjour, je suis Soline
+Bioinformaticienne avec 6 ans d'experience en traitement de données NGS à haut débit et maintenance pipeline.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -9,7 +10,8 @@
 ---
 
 ## 🌱 À propos de moi
-Bioinformaticienne engagée et curieuse, je cumule 6 ans d’expérience dans le traitement de données NGS à haut débit et la maintenance de pipelines. J’aime accompagner les chercheurs dans leurs projets, résoudre des problèmes et proposer des solutions concrètes adaptées à leurs besoins, tout en développant des pipelines robustes et bien documentés pour des analyses reproductibles sur HPC ou cloud.
+
+Mettre mes compétences au service des autres m’a toujours motivée. Curieuse de nature, je me suis rapidement passionnée pour la biologie, un domaine vaste qui regroupe une multitude de sujets fascinants. La bioinformatique est parfaite pour moi, car elle allie ma passion pour la biologie, mon goût pour l’informatique et la résolution de problèmes, tout en me permettant d’aider les chercheurs en leur apportant des solutions concrètes et de contribuer à la recherche.
 
 Après un an d’aventures en Nouvelle-Zélande, je suis de retour et en recherche active d’un poste en bioinformatique, tout en continuant à développer mes compétences via projets personnels et à m’impliquer dans des associations (Croix-Rouge, Les Petits Frères des Pauvres, Restos du Cœur).
 
