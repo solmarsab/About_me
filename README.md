@@ -9,9 +9,10 @@
 ---
 
 ## 🌱 À propos de moi
-Bioinformaticienne engagée, curieuse et passionnée, j’aime **résoudre des problèmes** et **apporter des solutions concrètes**.  
-Après un an en Nouvelle-Zélande, je suis de retour et en **recherche active d’un poste en bioinformatique**, tout en développant mes compétences via **projets personnels** et en m’impliquant dans des **associations de secours social**.  
-J’aime accompagner les chercheurs dans leurs projets et travailler sur des analyses **reproductibles sur HPC et cloud**.
+Bioinformaticienne engagée et curieuse, je cumule 6 ans d’expérience dans le traitement de données NGS à haut débit et la maintenance de pipelines. J’aime accompagner les chercheurs dans leurs projets, résoudre des problèmes et proposer des solutions concrètes adaptées à leurs besoins, tout en développant des pipelines robustes et bien documentés pour des analyses reproductibles sur HPC ou cloud.
+
+Après un an d’aventures en Nouvelle-Zélande, je suis de retour et en recherche active d’un poste en bioinformatique, tout en continuant à développer mes compétences via projets personnels et à m’impliquer dans des associations (Croix-Rouge, Les Petits Frères des Pauvres, Restos du Cœur).
+
 
 ---
 
@@ -34,12 +35,6 @@ J’aime accompagner les chercheurs dans leurs projets et travailler sur des ana
 > Projet ouvert et régulièrement mis à jour sur GitHub.
 
 *Capture d’écran ou GIF à ajouter pour rendre le projet visuel.*
-
----
-
-## 🤝 Engagement social
-- Participation à des **actions de secours social** au sein de plusieurs associations.  
-- Sens de l’autonomie, du travail en équipe et de la collaboration.
 
 ---
 
