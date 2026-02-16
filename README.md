@@ -15,7 +15,7 @@ Esprit curieux et engagée, j’ai trouvé dans la bioinformatique un moyen de m
 
 Après 6 ans d’expérience en traitement de données NGS et en maintenance de pipelines robustes sur HPC et cloud, j’ai troqué mon bureau pour les montagnes de Nouvelle-Zélande.
 
-Pendant un an, parmi les vaches, derrière le comptoir ou sur la route, j’ai vécu de nouvelles aventures. Aujourd’hui, je suis de retour et en recherche active d’un poste en bioinformatique. Parallèlement, je continue à développer mes compétences via des projets personnels présentés ici et à donner de mon temps à des associations.
+Pendant un an, parmi les vaches, derrière le comptoir ou sur la route, j’ai vécu de nouvelles aventures immergée dans la langue de Shakespeare. Aujourd’hui, je suis de retour et en recherche active d’un poste en bioinformatique. Parallèlement, je continue à développer mes compétences via des projets personnels présentés ici et à donner de mon temps à des associations.
 
 ---
 
